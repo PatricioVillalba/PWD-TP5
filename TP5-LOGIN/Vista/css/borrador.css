@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.has-error .form-control-feedback {
+    color: #eb1d1d;
+}
+.has-success .form-control-feedback {
+    color: #0de8ad;
+}
+
